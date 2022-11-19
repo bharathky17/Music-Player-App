@@ -1,82 +1,86 @@
 [
     {
-        "merged": "com.Bharath.musicPlayer.app-mergeDebugResources-28:/layout/playlist_view.xml",
-        "source": "com.Bharath.musicPlayer.app-main-31:/layout/playlist_view.xml"
+        "merged": "C:\\Users\\Bharath Mamindla\\.gradle\\daemon\\7.4\\com.Bharath.musicPlayer.app-mergeDebugResources-28:\\layout\\activity_settings.xml",
+        "source": "C:\\Users\\Bharath Mamindla\\.gradle\\daemon\\7.4\\com.Bharath.musicPlayer.app-main-31:\\layout\\activity_settings.xml"
     },
     {
-        "merged": "com.Bharath.musicPlayer.app-mergeDebugResources-28:/layout/activity_feedback.xml",
-        "source": "com.Bharath.musicPlayer.app-main-31:/layout/activity_feedback.xml"
+        "merged": "C:\\Users\\Bharath Mamindla\\.gradle\\daemon\\7.4\\com.Bharath.musicPlayer.app-mergeDebugResources-28:\\layout\\nav_header.xml",
+        "source": "C:\\Users\\Bharath Mamindla\\.gradle\\daemon\\7.4\\com.Bharath.musicPlayer.app-main-31:\\layout\\nav_header.xml"
     },
     {
-        "merged": "com.Bharath.musicPlayer.app-mergeDebugResources-28:/layout/activity_favourite.xml",
-        "source": "com.Bharath.musicPlayer.app-main-31:/layout/activity_favourite.xml"
+        "merged": "C:\\Users\\Bharath Mamindla\\.gradle\\daemon\\7.4\\com.Bharath.musicPlayer.app-mergeDebugResources-28:\\layout\\activity_about.xml",
+        "source": "C:\\Users\\Bharath Mamindla\\.gradle\\daemon\\7.4\\com.Bharath.musicPlayer.app-main-31:\\layout\\activity_about.xml"
     },
     {
-        "merged": "com.Bharath.musicPlayer.app-mergeDebugResources-28:/layout/more_features.xml",
-        "source": "com.Bharath.musicPlayer.app-main-31:/layout/more_features.xml"
+        "merged": "C:\\Users\\Bharath Mamindla\\.gradle\\daemon\\7.4\\com.Bharath.musicPlayer.app-mergeDebugResources-28:\\layout\\activity_playlist.xml",
+        "source": "C:\\Users\\Bharath Mamindla\\.gradle\\daemon\\7.4\\com.Bharath.musicPlayer.app-main-31:\\layout\\activity_playlist.xml"
     },
     {
-        "merged": "com.Bharath.musicPlayer.app-mergeDebugResources-28:/layout/activity_settings.xml",
-        "source": "com.Bharath.musicPlayer.app-main-31:/layout/activity_settings.xml"
+        "merged": "C:\\Users\\Bharath Mamindla\\.gradle\\daemon\\7.4\\com.Bharath.musicPlayer.app-mergeDebugResources-28:\\layout\\activity_favourite.xml",
+        "source": "C:\\Users\\Bharath Mamindla\\.gradle\\daemon\\7.4\\com.Bharath.musicPlayer.app-main-31:\\layout\\activity_favourite.xml"
     },
     {
-        "merged": "com.Bharath.musicPlayer.app-mergeDebugResources-28:/layout/activity_playlist_details.xml",
-        "source": "com.Bharath.musicPlayer.app-main-31:/layout/activity_playlist_details.xml"
+        "merged": "C:\\Users\\Bharath Mamindla\\.gradle\\daemon\\7.4\\com.Bharath.musicPlayer.app-mergeDebugResources-28:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Bharath Mamindla\\.gradle\\daemon\\7.4\\com.Bharath.musicPlayer.app-main-31:\\layout\\activity_main.xml"
     },
     {
-        "merged": "com.Bharath.musicPlayer.app-mergeDebugResources-28:/layout/nav_header.xml",
-        "source": "com.Bharath.musicPlayer.app-main-31:/layout/nav_header.xml"
+        "merged": "C:\\Users\\Bharath Mamindla\\.gradle\\daemon\\7.4\\com.Bharath.musicPlayer.app-mergeDebugResources-28:\\layout\\fragment_now_playing.xml",
+        "source": "C:\\Users\\Bharath Mamindla\\.gradle\\daemon\\7.4\\com.Bharath.musicPlayer.app-main-31:\\layout\\fragment_now_playing.xml"
     },
     {
-        "merged": "com.Bharath.musicPlayer.app-mergeDebugResources-28:/layout/music_view.xml",
-        "source": "com.Bharath.musicPlayer.app-main-31:/layout/music_view.xml"
+        "merged": "C:\\Users\\Bharath Mamindla\\.gradle\\daemon\\7.4\\com.Bharath.musicPlayer.app-mergeDebugResources-28:\\layout\\more_features.xml",
+        "source": "C:\\Users\\Bharath Mamindla\\.gradle\\daemon\\7.4\\com.Bharath.musicPlayer.app-main-31:\\layout\\more_features.xml"
     },
     {
-        "merged": "com.Bharath.musicPlayer.app-mergeDebugResources-28:/layout/activity_playlist.xml",
-        "source": "com.Bharath.musicPlayer.app-main-31:/layout/activity_playlist.xml"
+        "merged": "C:\\Users\\Bharath Mamindla\\.gradle\\daemon\\7.4\\com.Bharath.musicPlayer.app-mergeDebugResources-28:\\layout\\audio_booster.xml",
+        "source": "C:\\Users\\Bharath Mamindla\\.gradle\\daemon\\7.4\\com.Bharath.musicPlayer.app-main-31:\\layout\\audio_booster.xml"
     },
     {
-        "merged": "com.Bharath.musicPlayer.app-mergeDebugResources-28:/layout/add_playlist_dialog.xml",
-        "source": "com.Bharath.musicPlayer.app-main-31:/layout/add_playlist_dialog.xml"
+        "merged": "C:\\Users\\Bharath Mamindla\\.gradle\\daemon\\7.4\\com.Bharath.musicPlayer.app-mergeDebugResources-28:\\layout\\activity_selection.xml",
+        "source": "C:\\Users\\Bharath Mamindla\\.gradle\\daemon\\7.4\\com.Bharath.musicPlayer.app-main-31:\\layout\\activity_selection.xml"
     },
     {
-        "merged": "com.Bharath.musicPlayer.app-mergeDebugResources-28:/layout/activity_about.xml",
-        "source": "com.Bharath.musicPlayer.app-main-31:/layout/activity_about.xml"
+        "merged": "C:\\Users\\Bharath Mamindla\\.gradle\\daemon\\7.4\\com.Bharath.musicPlayer.app-mergeDebugResources-28:\\layout\\music_view.xml",
+        "source": "C:\\Users\\Bharath Mamindla\\.gradle\\daemon\\7.4\\com.Bharath.musicPlayer.app-main-31:\\layout\\music_view.xml"
     },
     {
-        "merged": "com.Bharath.musicPlayer.app-mergeDebugResources-28:/layout/activity_player.xml",
-        "source": "com.Bharath.musicPlayer.app-main-31:/layout/activity_player.xml"
+        "merged": "C:\\Users\\Bharath Mamindla\\.gradle\\daemon\\7.4\\com.Bharath.musicPlayer.app-mergeDebugResources-28:\\layout\\activity_feedback.xml",
+        "source": "C:\\Users\\Bharath Mamindla\\.gradle\\daemon\\7.4\\com.Bharath.musicPlayer.app-main-31:\\layout\\activity_feedback.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bharath Mamindla\\.gradle\\daemon\\7.4\\com.Bharath.musicPlayer.app-mergeDebugResources-28:\\layout\\playlist_view.xml",
+        "source": "C:\\Users\\Bharath Mamindla\\.gradle\\daemon\\7.4\\com.Bharath.musicPlayer.app-main-31:\\layout\\playlist_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bharath Mamindla\\.gradle\\daemon\\7.4\\com.Bharath.musicPlayer.app-mergeDebugResources-28:\\layout\\add_playlist_dialog.xml",
+        "source": "C:\\Users\\Bharath Mamindla\\.gradle\\daemon\\7.4\\com.Bharath.musicPlayer.app-main-31:\\layout\\add_playlist_dialog.xml"
     },
     {
         "merged": "com.Bharath.musicPlayer.app-mergeDebugResources-28:/layout/activity_main.xml",
         "source": "com.Bharath.musicPlayer.app-main-31:/layout/activity_main.xml"
     },
     {
-        "merged": "com.Bharath.musicPlayer.app-mergeDebugResources-28:/layout/activity_play_next.xml",
-        "source": "com.Bharath.musicPlayer.app-main-31:/layout/activity_play_next.xml"
+        "merged": "C:\\Users\\Bharath Mamindla\\.gradle\\daemon\\7.4\\com.Bharath.musicPlayer.app-mergeDebugResources-28:\\layout\\activity_player.xml",
+        "source": "C:\\Users\\Bharath Mamindla\\.gradle\\daemon\\7.4\\com.Bharath.musicPlayer.app-main-31:\\layout\\activity_player.xml"
     },
     {
-        "merged": "com.Bharath.musicPlayer.app-mergeDebugResources-28:/layout/favourite_view.xml",
-        "source": "com.Bharath.musicPlayer.app-main-31:/layout/favourite_view.xml"
+        "merged": "C:\\Users\\Bharath Mamindla\\.gradle\\daemon\\7.4\\com.Bharath.musicPlayer.app-mergeDebugResources-28:\\layout\\bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\Bharath Mamindla\\.gradle\\daemon\\7.4\\com.Bharath.musicPlayer.app-main-31:\\layout\\bottom_sheet_dialog.xml"
     },
     {
-        "merged": "com.Bharath.musicPlayer.app-mergeDebugResources-28:/layout/bottom_sheet_dialog.xml",
-        "source": "com.Bharath.musicPlayer.app-main-31:/layout/bottom_sheet_dialog.xml"
+        "merged": "C:\\Users\\Bharath Mamindla\\.gradle\\daemon\\7.4\\com.Bharath.musicPlayer.app-mergeDebugResources-28:\\layout\\activity_playlist_details.xml",
+        "source": "C:\\Users\\Bharath Mamindla\\.gradle\\daemon\\7.4\\com.Bharath.musicPlayer.app-main-31:\\layout\\activity_playlist_details.xml"
     },
     {
-        "merged": "com.Bharath.musicPlayer.app-mergeDebugResources-28:/layout/audio_booster.xml",
-        "source": "com.Bharath.musicPlayer.app-main-31:/layout/audio_booster.xml"
+        "merged": "C:\\Users\\Bharath Mamindla\\.gradle\\daemon\\7.4\\com.Bharath.musicPlayer.app-mergeDebugResources-28:\\layout\\activity_play_next.xml",
+        "source": "C:\\Users\\Bharath Mamindla\\.gradle\\daemon\\7.4\\com.Bharath.musicPlayer.app-main-31:\\layout\\activity_play_next.xml"
     },
     {
-        "merged": "com.Bharath.musicPlayer.app-mergeDebugResources-28:/layout/fragment_now_playing.xml",
-        "source": "com.Bharath.musicPlayer.app-main-31:/layout/fragment_now_playing.xml"
+        "merged": "C:\\Users\\Bharath Mamindla\\.gradle\\daemon\\7.4\\com.Bharath.musicPlayer.app-mergeDebugResources-28:\\layout\\details_view.xml",
+        "source": "C:\\Users\\Bharath Mamindla\\.gradle\\daemon\\7.4\\com.Bharath.musicPlayer.app-main-31:\\layout\\details_view.xml"
     },
     {
-        "merged": "com.Bharath.musicPlayer.app-mergeDebugResources-28:/layout/details_view.xml",
-        "source": "com.Bharath.musicPlayer.app-main-31:/layout/details_view.xml"
-    },
-    {
-        "merged": "com.Bharath.musicPlayer.app-mergeDebugResources-28:/layout/activity_selection.xml",
-        "source": "com.Bharath.musicPlayer.app-main-31:/layout/activity_selection.xml"
+        "merged": "C:\\Users\\Bharath Mamindla\\.gradle\\daemon\\7.4\\com.Bharath.musicPlayer.app-mergeDebugResources-28:\\layout\\favourite_view.xml",
+        "source": "C:\\Users\\Bharath Mamindla\\.gradle\\daemon\\7.4\\com.Bharath.musicPlayer.app-main-31:\\layout\\favourite_view.xml"
     }
 ]
