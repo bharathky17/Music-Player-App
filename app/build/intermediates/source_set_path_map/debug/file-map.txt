@@ -1,0 +1,32 @@
+com.Bharath.musicPlayer.app-material-1.5.0-0 C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\166761adf6a2424451ba235e1aa21cfb\transformed\material-1.5.0\res
+com.Bharath.musicPlayer.app-drawerlayout-1.1.1-1 C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\17f296f1059161268e49548015d13cde\transformed\drawerlayout-1.1.1\res
+com.Bharath.musicPlayer.app-emoji2-1.0.0-2 C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\26b3e49ba6fd5a758937bed3e5d540c1\transformed\emoji2-1.0.0\res
+com.Bharath.musicPlayer.app-media-1.6.0-3 C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\2b72b50cb113155fd35688785ba5f101\transformed\media-1.6.0\res
+com.Bharath.musicPlayer.app-constraintlayout-2.1.3-4 C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\39666aae1f3c6dd07799842ae7b7f5c9\transformed\constraintlayout-2.1.3\res
+com.Bharath.musicPlayer.app-recyclerview-1.1.0-5 C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\400ebd826de06ecc02eae973d0f4b06b\transformed\recyclerview-1.1.0\res
+com.Bharath.musicPlayer.app-appcompat-resources-1.4.1-6 C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\40338063c4f85e053beb63ac364b7e00\transformed\appcompat-resources-1.4.1\res
+com.Bharath.musicPlayer.app-core-ktx-1.7.0-7 C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\47ccf3622aeeb22580f4d0bf17253c66\transformed\core-ktx-1.7.0\res
+com.Bharath.musicPlayer.app-startup-runtime-1.0.0-8 C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\531da08f46f143e87eec2b6d013f19ff\transformed\startup-runtime-1.0.0\res
+com.Bharath.musicPlayer.app-coordinatorlayout-1.1.0-9 C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\5a1f91d63a6b03eb4ebede3f7befe349\transformed\coordinatorlayout-1.1.0\res
+com.Bharath.musicPlayer.app-appcompat-1.4.1-10 C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\5dc63faf0deb2624650454da39b34c6c\transformed\appcompat-1.4.1\res
+com.Bharath.musicPlayer.app-lifecycle-runtime-2.4.0-11 C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\689906bf1fd8c6ec14bbe666f2d6627e\transformed\lifecycle-runtime-2.4.0\res
+com.Bharath.musicPlayer.app-lifecycle-process-2.4.0-12 C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\6d9508099d0f6aa06a1ef6580aab9308\transformed\lifecycle-process-2.4.0\res
+com.Bharath.musicPlayer.app-lifecycle-viewmodel-2.3.1-13 C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\808f744cac3d6a14823874cd011249a2\transformed\lifecycle-viewmodel-2.3.1\res
+com.Bharath.musicPlayer.app-glide-4.13.2-14 C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\857e52829242b03f4c3dd06ffb0070db\transformed\glide-4.13.2\res
+com.Bharath.musicPlayer.app-annotation-experimental-1.1.0-15 C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\8a8b38bc7d5b02ec912030ca41b87502\transformed\annotation-experimental-1.1.0\res
+com.Bharath.musicPlayer.app-core-1.7.0-16 C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\93fa199e7bf2530602d3f7cbbb5a34d3\transformed\core-1.7.0\res
+com.Bharath.musicPlayer.app-cardview-1.0.0-17 C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\a52a8e6f77c318933e1264dd02c3030e\transformed\cardview-1.0.0\res
+com.Bharath.musicPlayer.app-emoji2-views-helper-1.0.0-18 C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\b58755d8e0188fdef6b66c39ae6c0743\transformed\emoji2-views-helper-1.0.0\res
+com.Bharath.musicPlayer.app-fragment-1.3.6-19 C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\cdb59bfe6ff36d1af96b64cc0ddf8f04\transformed\fragment-1.3.6\res
+com.Bharath.musicPlayer.app-savedstate-1.1.0-20 C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\ddcf6dfd911a5933e00f7cfaba1482ac\transformed\savedstate-1.1.0\res
+com.Bharath.musicPlayer.app-VerticalSeekBar-1.2.7-21 C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\e6364aa7f07bbfd0ec548223362af938\transformed\VerticalSeekBar-1.2.7\res
+com.Bharath.musicPlayer.app-viewpager2-1.0.0-22 C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\fe0873dff34eaa962721ae66024ac98d\transformed\viewpager2-1.0.0\res
+com.Bharath.musicPlayer.app-transition-1.2.0-23 C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\fe7ce736e5e474dbb996792c150df009\transformed\transition-1.2.0\res
+com.Bharath.musicPlayer.app-pngs-24 C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\build\generated\res\pngs\debug
+com.Bharath.musicPlayer.app-resValues-25 C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\build\generated\res\resValues\debug
+com.Bharath.musicPlayer.app-rs-26 C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\build\generated\res\rs\debug
+com.Bharath.musicPlayer.app-mergeDebugResources-27 C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.Bharath.musicPlayer.app-mergeDebugResources-28 C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.Bharath.musicPlayer.app-merged_res-29 C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\build\intermediates\merged_res\debug
+com.Bharath.musicPlayer.app-debug-30 C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\debug\res
+com.Bharath.musicPlayer.app-main-31 C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\res

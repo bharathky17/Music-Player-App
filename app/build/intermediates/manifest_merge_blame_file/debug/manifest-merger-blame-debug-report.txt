@@ -1,0 +1,189 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.Bharath.musicPlayer"
+4    android:versionCode="8"
+5    android:versionName="4.0.4" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+11-->C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:6:5-79
+11-->C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:6:22-76
+12    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+12-->C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:7:5-9:40
+12-->C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:8:9-65
+13    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+13-->C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:10:5-77
+13-->C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:10:22-74
+14    <uses-permission android:name="android.permission.INTERNET" />
+14-->C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:11:5-67
+14-->C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:11:22-64
+15
+16    <application
+16-->C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:13:5-92:19
+17        android:name="com.Bharath.musicPlayer.ApplicationClass"
+17-->C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:14:9-41
+18        android:allowBackup="true"
+18-->C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:15:9-35
+19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+19-->[androidx.core:core:1.7.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\93fa199e7bf2530602d3f7cbbb5a34d3\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+20        android:debuggable="true"
+21        android:icon="@mipmap/music_player_icon"
+21-->C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:16:9-49
+22        android:label="@string/app_name"
+22-->C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:17:9-41
+23        android:requestLegacyExternalStorage="true"
+23-->C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:18:9-52
+24        android:roundIcon="@mipmap/music_player_icon_round"
+24-->C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:19:9-60
+25        android:supportsRtl="true"
+25-->C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:20:9-35
+26        android:testOnly="true"
+27        android:theme="@style/splash_screen" >
+27-->C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:21:9-45
+28        <activity
+28-->C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:23:9-25:40
+29            android:name="com.Bharath.musicPlayer.PlayNext"
+29-->C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:24:13-37
+30            android:exported="false" />
+30-->C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:25:13-37
+31        <activity
+31-->C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:26:9-29:56
+32            android:name="com.Bharath.musicPlayer.AboutActivity"
+32-->C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:27:13-42
+33            android:screenOrientation="portrait" />
+33-->C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:28:13-49
+34        <activity
+34-->C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:30:9-33:56
+35            android:name="com.Bharath.musicPlayer.SettingsActivity"
+35-->C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:31:13-45
+36            android:screenOrientation="portrait" />
+36-->C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:32:13-49
+37        <activity
+37-->C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:34:9-37:56
+38            android:name="com.Bharath.musicPlayer.FeedbackActivity"
+38-->C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:35:13-45
+39            android:screenOrientation="portrait" />
+39-->C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:36:13-49
+40        <activity
+40-->C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:38:9-41:56
+41            android:name="com.Bharath.musicPlayer.SelectionActivity"
+41-->C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:39:13-46
+42            android:screenOrientation="portrait" />
+42-->C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:40:13-49
+43        <activity
+43-->C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:42:9-45:56
+44            android:name="com.Bharath.musicPlayer.PlaylistDetails"
+44-->C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:43:13-44
+45            android:screenOrientation="portrait" />
+45-->C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:44:13-49
+46        <activity
+46-->C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:46:9-49:56
+47            android:name="com.Bharath.musicPlayer.PlaylistActivity"
+47-->C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:47:13-45
+48            android:screenOrientation="portrait" />
+48-->C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:48:13-49
+49        <activity
+49-->C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:50:9-53:56
+50            android:name="com.Bharath.musicPlayer.FavouriteActivity"
+50-->C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:51:13-46
+51            android:screenOrientation="portrait" />
+51-->C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:52:13-49
+52        <activity
+52-->C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:54:9-72:20
+53            android:name="com.Bharath.musicPlayer.PlayerActivity"
+53-->C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:55:13-43
+54            android:configChanges="uiMode"
+54-->C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:56:13-43
+55            android:exported="true"
+55-->C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:57:13-36
+56            android:launchMode="singleTask"
+56-->C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:58:13-44
+57            android:noHistory="true"
+57-->C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:59:13-37
+58            android:screenOrientation="portrait" >
+58-->C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:60:13-49
+59            <intent-filter>
+59-->C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:62:13-71:29
+60                <action android:name="android.intent.action.VIEW" />
+60-->C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:63:17-69
+60-->C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:63:25-66
+61
+62                <category android:name="android.intent.category.BROWSABLE" />
+62-->C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:65:17-78
+62-->C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:65:27-75
+63                <category android:name="android.intent.category.DEFAULT" />
+63-->C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:66:17-76
+63-->C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:66:27-73
+64
+65                <data
+65-->C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:68:17-70:48
+66                    android:mimeType="audio/*"
+66-->C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:69:21-47
+67                    android:scheme="content" />
+67-->C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:70:21-45
+68            </intent-filter>
+69        </activity>
+70        <activity
+70-->C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:73:9-85:20
+71            android:name="com.Bharath.musicPlayer.MainActivity"
+71-->C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:74:13-41
+72            android:configChanges="uiMode"
+72-->C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:75:13-43
+73            android:exported="true"
+73-->C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:76:13-36
+74            android:launchMode="singleTask"
+74-->C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:78:13-44
+75            android:screenOrientation="portrait" >
+75-->C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:77:13-49
+76            <intent-filter>
+76-->C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:80:13-84:29
+77                <action android:name="android.intent.action.MAIN" />
+77-->C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:81:17-69
+77-->C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:81:25-66
+78
+79                <category android:name="android.intent.category.LAUNCHER" />
+79-->C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:83:17-77
+79-->C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:83:27-74
+80            </intent-filter>
+81        </activity>
+82
+83        <service android:name="com.Bharath.musicPlayer.MusicService" />
+83-->C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:87:9-49
+83-->C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:87:18-46
+84
+85        <receiver
+85-->C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:89:9-91:38
+86            android:name="com.Bharath.musicPlayer.NotificationReceiver"
+86-->C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:90:13-49
+87            android:enabled="true" />
+87-->C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:91:13-35
+88
+89        <provider
+89-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\26b3e49ba6fd5a758937bed3e5d540c1\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+90            android:name="androidx.startup.InitializationProvider"
+90-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\26b3e49ba6fd5a758937bed3e5d540c1\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
+91            android:authorities="com.Bharath.musicPlayer.androidx-startup"
+91-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\26b3e49ba6fd5a758937bed3e5d540c1\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
+92            android:exported="false" >
+92-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\26b3e49ba6fd5a758937bed3e5d540c1\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
+93            <meta-data
+93-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\26b3e49ba6fd5a758937bed3e5d540c1\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+94                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+94-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\26b3e49ba6fd5a758937bed3e5d540c1\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
+95                android:value="androidx.startup" />
+95-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\26b3e49ba6fd5a758937bed3e5d540c1\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
+96            <meta-data
+96-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\6d9508099d0f6aa06a1ef6580aab9308\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+97                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+97-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\6d9508099d0f6aa06a1ef6580aab9308\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+98                android:value="androidx.startup" />
+98-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\6d9508099d0f6aa06a1ef6580aab9308\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+99        </provider>
+100    </application>
+101
+102</manifest>

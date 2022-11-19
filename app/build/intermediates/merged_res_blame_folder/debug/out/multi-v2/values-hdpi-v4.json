@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.Bharath.musicPlayer.app-mergeDebugResources-27:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Bharath Mamindla\\.gradle\\caches\\transforms-3\\5dc63faf0deb2624650454da39b34c6c\\transformed\\appcompat-1.4.1\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,408 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:2:1-94:12
+INJECTED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:2:1-94:12
+INJECTED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:2:1-94:12
+INJECTED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:2:1-94:12
+MERGED from [androidx.databinding:viewbinding:7.2.2] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\1e1a73af93038bd905dbdee5ec65fc80\transformed\viewbinding-7.2.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\47ccf3622aeeb22580f4d0bf17253c66\transformed\core-ktx-1.7.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\166761adf6a2424451ba235e1aa21cfb\transformed\material-1.5.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\39666aae1f3c6dd07799842ae7b7f5c9\transformed\constraintlayout-2.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.4.1] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\5dc63faf0deb2624650454da39b34c6c\transformed\appcompat-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\471c7b7df71421562cf789680827a252\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.13.2] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\857e52829242b03f4c3dd06ffb0070db\transformed\glide-4.13.2\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.media:media:1.6.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\2b72b50cb113155fd35688785ba5f101\transformed\media-1.6.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.lukelorusso:VerticalSeekBar:1.2.7] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\e6364aa7f07bbfd0ec548223362af938\transformed\VerticalSeekBar-1.2.7\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\fe0873dff34eaa962721ae66024ac98d\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\cdb59bfe6ff36d1af96b64cc0ddf8f04\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\b03d8612ab69c008b950dcb1fabaf427\transformed\activity-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\40338063c4f85e053beb63ac364b7e00\transformed\appcompat-resources-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\b58755d8e0188fdef6b66c39ae6c0743\transformed\emoji2-views-helper-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\26b3e49ba6fd5a758937bed3e5d540c1\transformed\emoji2-1.0.0\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\7bc5891137824aad844d137c301df632\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\17f296f1059161268e49548015d13cde\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\5a1f91d63a6b03eb4ebede3f7befe349\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\814029374b785a43be30aecbe22d9d58\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\fe7ce736e5e474dbb996792c150df009\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\6c744e0484288b9d289757aa1c644da3\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\eb61b827171f136516478b302a9b01b4\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\8357799009f50386d2e81ff9bf834a5d\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\7a8dc954c9ab3e2f7531fa6805f7fa14\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\d5e0357a7eb5480522728e15a4ae4b55\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\400ebd826de06ecc02eae973d0f4b06b\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\021dd82440e2fe095e052570757bd9f8\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\53fe22fb3c9a3e34c0b79aa56b6c3611\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\437e2ba41329d14ad58dd3fb87855572\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\4b438e88d0c72f57bc5cca627dae29ca\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.7.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\93fa199e7bf2530602d3f7cbbb5a34d3\transformed\core-1.7.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\d07e64641f12086bb5c3b0588c45ce37\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\b00558c23c2d1672c9f7548dcee9ac5a\transformed\lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\ddcf6dfd911a5933e00f7cfaba1482ac\transformed\savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\808f744cac3d6a14823874cd011249a2\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\a52a8e6f77c318933e1264dd02c3030e\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.13.2] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\db36ab673fb2669de466cda17f8618a1\transformed\gifdecoder-4.13.2\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\ce8fab7b81e8c6278f624595e2eb9616\transformed\exifinterface-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\6d9508099d0f6aa06a1ef6580aab9308\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\531da08f46f143e87eec2b6d013f19ff\transformed\startup-runtime-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\8cdfc1c907dacabacf547c94cc3c536c\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\3323c09a2afd2028fbf83e635c87d01c\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\76ce676fb595f781a1937be0bfb9063a\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\9d3c1cf37d75a1ef689c96945f41ddbf\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\689906bf1fd8c6ec14bbe666f2d6627e\transformed\lifecycle-runtime-2.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\70b24a6d228ab6ca40ba6f00eb1c1b18\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\7b6c7cf487901a438bba0bd322b85d26\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\ab1cbdf24638de4163508699994ba2bd\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\a3392e78e7dcf109632c51c0af148965\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\1133b5490191b121d5c49b2c0d1a529c\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\8a8b38bc7d5b02ec912030ca41b87502\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:2:1-94:12
+INJECTED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:2:1-94:12
+INJECTED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:2:1-94:12
+	package
+		ADDED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:4:5-38
+		INJECTED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:2:1-94:12
+		INJECTED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:2:1-94:12
+		INJECTED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:7:5-9:40
+	tools:ignore
+		ADDED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:9:9-37
+	android:name
+		ADDED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:8:9-65
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:10:5-77
+	android:name
+		ADDED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:10:22-74
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:11:22-64
+application
+ADDED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:13:5-92:19
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\166761adf6a2424451ba235e1aa21cfb\transformed\material-1.5.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\166761adf6a2424451ba235e1aa21cfb\transformed\material-1.5.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\39666aae1f3c6dd07799842ae7b7f5c9\transformed\constraintlayout-2.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\39666aae1f3c6dd07799842ae7b7f5c9\transformed\constraintlayout-2.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.13.2] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\857e52829242b03f4c3dd06ffb0070db\transformed\glide-4.13.2\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.13.2] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\857e52829242b03f4c3dd06ffb0070db\transformed\glide-4.13.2\AndroidManifest.xml:10:5-20
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\26b3e49ba6fd5a758937bed3e5d540c1\transformed\emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\26b3e49ba6fd5a758937bed3e5d540c1\transformed\emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.core:core:1.7.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\93fa199e7bf2530602d3f7cbbb5a34d3\transformed\core-1.7.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\93fa199e7bf2530602d3f7cbbb5a34d3\transformed\core-1.7.0\AndroidManifest.xml:24:5-89
+MERGED from [com.github.bumptech.glide:gifdecoder:4.13.2] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\db36ab673fb2669de466cda17f8618a1\transformed\gifdecoder-4.13.2\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.13.2] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\db36ab673fb2669de466cda17f8618a1\transformed\gifdecoder-4.13.2\AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\6d9508099d0f6aa06a1ef6580aab9308\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\6d9508099d0f6aa06a1ef6580aab9308\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\531da08f46f143e87eec2b6d013f19ff\transformed\startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\531da08f46f143e87eec2b6d013f19ff\transformed\startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\3323c09a2afd2028fbf83e635c87d01c\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\3323c09a2afd2028fbf83e635c87d01c\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:requestLegacyExternalStorage
+		ADDED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:18:9-52
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\93fa199e7bf2530602d3f7cbbb5a34d3\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:20:9-35
+	android:label
+		ADDED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:17:9-41
+	tools:ignore
+		ADDED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:22:9-35
+	android:roundIcon
+		ADDED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:19:9-60
+	android:icon
+		ADDED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:16:9-49
+	android:allowBackup
+		ADDED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:15:9-35
+	android:theme
+		ADDED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:21:9-45
+	android:name
+		ADDED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:14:9-41
+activity#com.Bharath.musicPlayer.PlayNext
+ADDED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:23:9-25:40
+	android:exported
+		ADDED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:24:13-37
+activity#com.Bharath.musicPlayer.AboutActivity
+ADDED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:26:9-29:56
+	android:screenOrientation
+		ADDED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:28:13-49
+	tools:ignore
+		ADDED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:29:13-53
+	android:name
+		ADDED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:27:13-42
+activity#com.Bharath.musicPlayer.SettingsActivity
+ADDED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:30:9-33:56
+	android:screenOrientation
+		ADDED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:32:13-49
+	tools:ignore
+		ADDED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:33:13-53
+	android:name
+		ADDED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:31:13-45
+activity#com.Bharath.musicPlayer.FeedbackActivity
+ADDED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:34:9-37:56
+	android:screenOrientation
+		ADDED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:36:13-49
+	tools:ignore
+		ADDED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:37:13-53
+	android:name
+		ADDED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:35:13-45
+activity#com.Bharath.musicPlayer.SelectionActivity
+ADDED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:38:9-41:56
+	android:screenOrientation
+		ADDED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:40:13-49
+	tools:ignore
+		ADDED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:41:13-53
+	android:name
+		ADDED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:39:13-46
+activity#com.Bharath.musicPlayer.PlaylistDetails
+ADDED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:42:9-45:56
+	android:screenOrientation
+		ADDED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:44:13-49
+	tools:ignore
+		ADDED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:45:13-53
+	android:name
+		ADDED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:43:13-44
+activity#com.Bharath.musicPlayer.PlaylistActivity
+ADDED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:46:9-49:56
+	android:screenOrientation
+		ADDED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:48:13-49
+	tools:ignore
+		ADDED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:49:13-53
+	android:name
+		ADDED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:47:13-45
+activity#com.Bharath.musicPlayer.FavouriteActivity
+ADDED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:50:9-53:56
+	android:screenOrientation
+		ADDED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:52:13-49
+	tools:ignore
+		ADDED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:53:13-53
+	android:name
+		ADDED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:51:13-46
+activity#com.Bharath.musicPlayer.PlayerActivity
+ADDED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:54:9-72:20
+	android:screenOrientation
+		ADDED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:60:13-49
+	android:launchMode
+		ADDED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:58:13-44
+	android:noHistory
+		ADDED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:59:13-37
+	android:exported
+		ADDED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:57:13-36
+	tools:ignore
+		ADDED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:61:13-69
+	android:configChanges
+		ADDED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:56:13-43
+	android:name
+		ADDED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:55:13-43
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:mimeType:audio/*+data:scheme:content
+ADDED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:62:13-71:29
+action#android.intent.action.VIEW
+ADDED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:63:17-69
+	android:name
+		ADDED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:63:25-66
+category#android.intent.category.BROWSABLE
+ADDED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:65:17-78
+	android:name
+		ADDED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:65:27-75
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:66:17-76
+	android:name
+		ADDED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:66:27-73
+data
+ADDED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:68:17-70:48
+	android:scheme
+		ADDED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:70:21-45
+	android:mimeType
+		ADDED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:69:21-47
+activity#com.Bharath.musicPlayer.MainActivity
+ADDED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:73:9-85:20
+	android:screenOrientation
+		ADDED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:77:13-49
+	android:launchMode
+		ADDED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:78:13-44
+	android:exported
+		ADDED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:76:13-36
+	tools:ignore
+		ADDED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:79:13-53
+	android:configChanges
+		ADDED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:75:13-43
+	android:name
+		ADDED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:74:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:80:13-84:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:81:17-69
+	android:name
+		ADDED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:81:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:83:17-77
+	android:name
+		ADDED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:83:27-74
+service#com.Bharath.musicPlayer.MusicService
+ADDED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:87:9-49
+	android:name
+		ADDED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:87:18-46
+receiver#com.Bharath.musicPlayer.NotificationReceiver
+ADDED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:89:9-91:38
+	android:enabled
+		ADDED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:91:13-35
+	android:name
+		ADDED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml:90:13-49
+uses-sdk
+INJECTED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:7.2.2] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\1e1a73af93038bd905dbdee5ec65fc80\transformed\viewbinding-7.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:7.2.2] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\1e1a73af93038bd905dbdee5ec65fc80\transformed\viewbinding-7.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\47ccf3622aeeb22580f4d0bf17253c66\transformed\core-ktx-1.7.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\47ccf3622aeeb22580f4d0bf17253c66\transformed\core-ktx-1.7.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\166761adf6a2424451ba235e1aa21cfb\transformed\material-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\166761adf6a2424451ba235e1aa21cfb\transformed\material-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\39666aae1f3c6dd07799842ae7b7f5c9\transformed\constraintlayout-2.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\39666aae1f3c6dd07799842ae7b7f5c9\transformed\constraintlayout-2.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\5dc63faf0deb2624650454da39b34c6c\transformed\appcompat-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\5dc63faf0deb2624650454da39b34c6c\transformed\appcompat-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\471c7b7df71421562cf789680827a252\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\471c7b7df71421562cf789680827a252\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.13.2] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\857e52829242b03f4c3dd06ffb0070db\transformed\glide-4.13.2\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.13.2] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\857e52829242b03f4c3dd06ffb0070db\transformed\glide-4.13.2\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.media:media:1.6.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\2b72b50cb113155fd35688785ba5f101\transformed\media-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.6.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\2b72b50cb113155fd35688785ba5f101\transformed\media-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.lukelorusso:VerticalSeekBar:1.2.7] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\e6364aa7f07bbfd0ec548223362af938\transformed\VerticalSeekBar-1.2.7\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.lukelorusso:VerticalSeekBar:1.2.7] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\e6364aa7f07bbfd0ec548223362af938\transformed\VerticalSeekBar-1.2.7\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\fe0873dff34eaa962721ae66024ac98d\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\fe0873dff34eaa962721ae66024ac98d\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\cdb59bfe6ff36d1af96b64cc0ddf8f04\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\cdb59bfe6ff36d1af96b64cc0ddf8f04\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\b03d8612ab69c008b950dcb1fabaf427\transformed\activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\b03d8612ab69c008b950dcb1fabaf427\transformed\activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\40338063c4f85e053beb63ac364b7e00\transformed\appcompat-resources-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\40338063c4f85e053beb63ac364b7e00\transformed\appcompat-resources-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\b58755d8e0188fdef6b66c39ae6c0743\transformed\emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\b58755d8e0188fdef6b66c39ae6c0743\transformed\emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\26b3e49ba6fd5a758937bed3e5d540c1\transformed\emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\26b3e49ba6fd5a758937bed3e5d540c1\transformed\emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\7bc5891137824aad844d137c301df632\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\7bc5891137824aad844d137c301df632\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\17f296f1059161268e49548015d13cde\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\17f296f1059161268e49548015d13cde\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\5a1f91d63a6b03eb4ebede3f7befe349\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\5a1f91d63a6b03eb4ebede3f7befe349\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\814029374b785a43be30aecbe22d9d58\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\814029374b785a43be30aecbe22d9d58\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\fe7ce736e5e474dbb996792c150df009\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\fe7ce736e5e474dbb996792c150df009\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\6c744e0484288b9d289757aa1c644da3\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\6c744e0484288b9d289757aa1c644da3\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\eb61b827171f136516478b302a9b01b4\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\eb61b827171f136516478b302a9b01b4\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\8357799009f50386d2e81ff9bf834a5d\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\8357799009f50386d2e81ff9bf834a5d\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\7a8dc954c9ab3e2f7531fa6805f7fa14\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\7a8dc954c9ab3e2f7531fa6805f7fa14\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\d5e0357a7eb5480522728e15a4ae4b55\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\d5e0357a7eb5480522728e15a4ae4b55\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\400ebd826de06ecc02eae973d0f4b06b\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\400ebd826de06ecc02eae973d0f4b06b\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\021dd82440e2fe095e052570757bd9f8\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\021dd82440e2fe095e052570757bd9f8\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\53fe22fb3c9a3e34c0b79aa56b6c3611\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\53fe22fb3c9a3e34c0b79aa56b6c3611\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\437e2ba41329d14ad58dd3fb87855572\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\437e2ba41329d14ad58dd3fb87855572\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\4b438e88d0c72f57bc5cca627dae29ca\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\4b438e88d0c72f57bc5cca627dae29ca\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.7.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\93fa199e7bf2530602d3f7cbbb5a34d3\transformed\core-1.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\93fa199e7bf2530602d3f7cbbb5a34d3\transformed\core-1.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\d07e64641f12086bb5c3b0588c45ce37\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\d07e64641f12086bb5c3b0588c45ce37\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\b00558c23c2d1672c9f7548dcee9ac5a\transformed\lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\b00558c23c2d1672c9f7548dcee9ac5a\transformed\lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\ddcf6dfd911a5933e00f7cfaba1482ac\transformed\savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\ddcf6dfd911a5933e00f7cfaba1482ac\transformed\savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\808f744cac3d6a14823874cd011249a2\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\808f744cac3d6a14823874cd011249a2\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\a52a8e6f77c318933e1264dd02c3030e\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\a52a8e6f77c318933e1264dd02c3030e\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.13.2] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\db36ab673fb2669de466cda17f8618a1\transformed\gifdecoder-4.13.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.13.2] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\db36ab673fb2669de466cda17f8618a1\transformed\gifdecoder-4.13.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\ce8fab7b81e8c6278f624595e2eb9616\transformed\exifinterface-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\ce8fab7b81e8c6278f624595e2eb9616\transformed\exifinterface-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\6d9508099d0f6aa06a1ef6580aab9308\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\6d9508099d0f6aa06a1ef6580aab9308\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\531da08f46f143e87eec2b6d013f19ff\transformed\startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\531da08f46f143e87eec2b6d013f19ff\transformed\startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\8cdfc1c907dacabacf547c94cc3c536c\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\8cdfc1c907dacabacf547c94cc3c536c\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\3323c09a2afd2028fbf83e635c87d01c\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\3323c09a2afd2028fbf83e635c87d01c\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\76ce676fb595f781a1937be0bfb9063a\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\76ce676fb595f781a1937be0bfb9063a\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\9d3c1cf37d75a1ef689c96945f41ddbf\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\9d3c1cf37d75a1ef689c96945f41ddbf\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\689906bf1fd8c6ec14bbe666f2d6627e\transformed\lifecycle-runtime-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\689906bf1fd8c6ec14bbe666f2d6627e\transformed\lifecycle-runtime-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\70b24a6d228ab6ca40ba6f00eb1c1b18\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\70b24a6d228ab6ca40ba6f00eb1c1b18\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\7b6c7cf487901a438bba0bd322b85d26\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\7b6c7cf487901a438bba0bd322b85d26\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\ab1cbdf24638de4163508699994ba2bd\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\ab1cbdf24638de4163508699994ba2bd\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\a3392e78e7dcf109632c51c0af148965\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\a3392e78e7dcf109632c51c0af148965\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\1133b5490191b121d5c49b2c0d1a529c\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\1133b5490191b121d5c49b2c0d1a529c\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\8a8b38bc7d5b02ec912030ca41b87502\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\8a8b38bc7d5b02ec912030ca41b87502\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Bharath Mamindla\Downloads\Music Player\MusicPlayer-master\app\src\main\AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\26b3e49ba6fd5a758937bed3e5d540c1\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\6d9508099d0f6aa06a1ef6580aab9308\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\6d9508099d0f6aa06a1ef6580aab9308\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\531da08f46f143e87eec2b6d013f19ff\transformed\startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\531da08f46f143e87eec2b6d013f19ff\transformed\startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\26b3e49ba6fd5a758937bed3e5d540c1\transformed\emoji2-1.0.0\AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\26b3e49ba6fd5a758937bed3e5d540c1\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\26b3e49ba6fd5a758937bed3e5d540c1\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\26b3e49ba6fd5a758937bed3e5d540c1\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\26b3e49ba6fd5a758937bed3e5d540c1\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\26b3e49ba6fd5a758937bed3e5d540c1\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\26b3e49ba6fd5a758937bed3e5d540c1\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\6d9508099d0f6aa06a1ef6580aab9308\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\6d9508099d0f6aa06a1ef6580aab9308\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Bharath Mamindla\.gradle\caches\transforms-3\6d9508099d0f6aa06a1ef6580aab9308\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
